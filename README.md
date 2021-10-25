@@ -8,7 +8,7 @@
 
 <p>
     Este projeto foi desenvolvido no 5º Episódio do quadro C# Na Prática no Canal do YouTube - <strong><a href="https://www.youtube.com/channel/UCHeVeHuy4m3HorYWirak2dg">Artigo Tech</a></strong>,
-    nele te ensinei a desenvolver uma aplicação em Windows Forms que realiza o envio de e-mail, utilizando o 
+    nele te ensinei a desenvolver uma aplicação em Windows Forms que realiza o envio de e-mail com a linguagem de programação C#, utilizando o 
     famoso protocolo SMTP.
     <br />
 </p>
