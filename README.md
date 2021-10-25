@@ -7,8 +7,8 @@
 ## Sobre o Projeto
 
 <p>
-    No Episódio 5 do Quadro C# Na Prática no Canal do YouTube - <strong><a href="https://www.youtube.com/channel/UCHeVeHuy4m3HorYWirak2dg">Artigo Tech</a></strong>,
-    te ensinei a desenvolver uma aplicação em Windows Forms que realiza o envio de e-mail, utilizando o protocolo SMTP.
+    Este projeto foi desenvolvido no 5º Episódio do quadro C# Na Prática no Canal do YouTube - <strong><a href="https://www.youtube.com/channel/UCHeVeHuy4m3HorYWirak2dg">Artigo Tech</a></strong>,
+    nele te ensinei a desenvolver uma aplicação em Windows Forms que realiza o envio de e-mail, utilizando o protocolo SMTP.
     <br />
 </p>
 
