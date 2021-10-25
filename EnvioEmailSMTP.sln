@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnvioEmailSMTP", "EnvioEmailSMTP\EnvioEmailSMTP.csproj", "{47D856C2-7594-4928-91BC-BE2B4525F979}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47D856C2-7594-4928-91BC-BE2B4525F979}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47D856C2-7594-4928-91BC-BE2B4525F979}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47D856C2-7594-4928-91BC-BE2B4525F979}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47D856C2-7594-4928-91BC-BE2B4525F979}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5478C1A-61BD-41A3-9D2A-678A58A6478A}
+	EndGlobalSection
+EndGlobal
